@@ -1,5 +1,3 @@
-This file is only to demo on , How to upload the local repository to Github.
-
 Git hub is not supporting username and password authentication . 
 We need to use the token instead , when the git remote command ask for password :
 
